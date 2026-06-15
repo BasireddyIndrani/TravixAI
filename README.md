@@ -36,6 +36,7 @@ Simulates emergency triggers including volume-key holds, device shake gestures, 
 
 ---
 
+
 ## 🛠️ Technology Stack
 
 * **Frontend Framework:** [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/) (for fast HMR and optimized builds)
