@@ -66,7 +66,7 @@ TravixAI/
 
 ---
 
-## 💻 Local Setup & Installation
+## 💻 Local Setup & Installation 
 
 To run Travix AI locally on your system:
 
@@ -99,6 +99,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 Created by **Team SafeHer** for the 2026 hackathon, striving to make commuter transit safer for women and everyone across Indian cities.
 
 ### 👥 Team Members
-* **Indrani**
-* **Jahnavi**
+* **Indrani Basireddy**
+* **Jahnavi Polisetty**
 * **Sree Sai Charan Teja**
