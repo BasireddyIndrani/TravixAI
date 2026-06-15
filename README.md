@@ -10,7 +10,7 @@ Developed by **Team SafeHer**, **Travix AI** reimagines urban mobility safety in
 ---
 
 ## 🔗 Live Deployment
-🚀 **Try the platform live:** [https://travix-ai-two.vercel.app/](https://travix-ai-two.vercel.app/)
+🚀 **Live Deployment Link:** [https://travix-ai-two.vercel.app/](https://travix-ai-two.vercel.app/)
 
 ---
 
