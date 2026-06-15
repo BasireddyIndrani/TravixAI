@@ -95,7 +95,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 ---
 
 ## 🤝 Team Credits
-Created with ❤️ by **Team SafeHer** for the 2026 hackathon, striving to make commuter transit safer for women and everyone across Indian cities.
+Created by **Team SafeHer** for the 2026 hackathon, striving to make commuter transit safer for women and everyone across Indian cities.
 
 ### 👥 Team Members
 * **Indrani**
